@@ -57,7 +57,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jsdoc": "^39.2.9",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-unicorn": "^42.0.0",
+    "eslint-plugin-unicorn": "^56.0.1",
     "husky": "^8.0.3",
     "jest": "^27.5.1",
     "lint-staged": "^12.3.7",
