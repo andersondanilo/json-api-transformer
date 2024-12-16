@@ -42,7 +42,7 @@
     "change-case": "^4.1.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.3",
+    "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^16.2.1",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/exec": "^6.0.3",
