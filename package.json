@@ -55,7 +55,7 @@
     "conventional-changelog-conventionalcommits": "^4.6.3",
     "embedme": "^1.22.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-jsdoc": "^39.2.9",
+    "eslint-plugin-jsdoc": "^50.6.2",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-unicorn": "^42.0.0",
     "husky": "^8.0.3",
